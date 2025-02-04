@@ -1,15 +1,15 @@
 # Hi there, I'm Marcel
 
-<table>
+<table style="border: none;">
   <tr>
-    <td>
-      <img src="[your-image-url-here](https://github.com/user-attachments/assets/df8be79b-21a7-4583-874c-75bb12f95738)" width="200" height="200" alt="Data Scientist Superhero">
+    <td style="width: 600; border: none;">
+      <img src="https://github.com/user-attachments/assets/df8be79b-21a7-4583-874c-75bb12f95738" width="200" height="200" alt="Data Scientist Superhero">
     </td>
-    <td>
+    <td style="border: none; vertical-align: top;">
       <h2>📊 The Data Hero</h2>
       <p>
-        Meet **Data Hero**, the ultimate fusion of technology and analytics! 
-        With his **futuristic visor**, he sees patterns in chaos, predicts trends before they happen, and optimizes the digital world for a better future.
+        Meet Data Hero, the ultimate fusion of technology and analytics! 
+        With his futuristic visor, he sees patterns in chaos, predicts trends before they happen, and optimizes the digital world for a better future.
       </p>
       <ul>
         <li>💻 **AI & Machine Learning Expert** - Transforms raw data into powerful models.</li>
