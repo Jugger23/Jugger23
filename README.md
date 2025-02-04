@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Marcel
 
-<!--
-**Jugger23/Jugger23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Foto
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Data Engineer and Scientist in the field of automotive engineering with experience in Python, FEM, optimization and test benches. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: Microsoft Data Engineering Path
+- 🔭 Working on: Data management for measured data
+- 🌍 Languages: Python, MATLAB. German, english, spanish.
+
+## Get in Touch 📬
+
+- **[LinkedIn]**www.linkedin.com/in/marcel-deutzer
+
+
+
