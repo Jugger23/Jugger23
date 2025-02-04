@@ -1,6 +1,6 @@
 # Hi there, I'm Marcel
 
-Foto
+![grafik](https://github.com/user-attachments/assets/df8be79b-21a7-4583-874c-75bb12f95738)
 
 ## About Me 🚀
 
