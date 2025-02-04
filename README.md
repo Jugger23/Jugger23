@@ -1,11 +1,11 @@
 # Hi there, I'm Marcel
 
-<table style="border: none;">
+<table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
     <td style="width: 600; border: none;">
-      <img src="https://github.com/user-attachments/assets/df8be79b-21a7-4583-874c-75bb12f95738" width="200" height="200" alt="Data Scientist Superhero">
+      <img src="https://github.com/user-attachments/assets/df8be79b-21a7-4583-874c-75bb12f95738" width="400" height="200" alt="Data Scientist Superhero">
     </td>
-    <td style="border: none; vertical-align: top;">
+    <td style="border: none; vertical-align: top; padding-left: 20px;">
       <h2>📊 The Data Hero</h2>
       <p>
         Meet Data Hero, the ultimate fusion of technology and analytics! 
