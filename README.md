@@ -11,6 +11,7 @@ I'm a passionate Data Scientist in the field of automotive engineering with expe
 ## Get in Touch 📬
 
 - **[LinkedIn]** www.linkedin.com/in/marcel-deutzer
+- **[Medium]** https://medium.com/@deutzermarcel/list/reading-list
 
 
 
